@@ -5,7 +5,7 @@ import './Footer.css'; // Import CSS for styling
 function Footer() {
   return (
     <footer className="footer">
-      <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+      <p>&copy; Adongo Jakes. All rights reserved.</p>
     </footer>
   );
 }
